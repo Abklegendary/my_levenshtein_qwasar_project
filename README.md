@@ -1,21 +1,14 @@
 # Welcome to My Levenshtein
-***
+*** 
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+ To create a directory ex00 and create a file called my_levenshtein.js inside it
 
 ## Description
-TODO - How have you solved the problem?
-
-## Installation
-TODO - How to install your project? npm install? make? make re?
-
-## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
-
+Declared of a function called my_levenshtein and added two parameters to it.
+i used 'if()' to run a statement that if the length of the first parameter is not equal to the length of the second one it should return -1.
+a variable is created called dist and the value is 0.
+'for()' is used to loop the codeblock. another statement is run again, saying if the first parameter with the value 0 is not equal to the second parameter with the same value, it should return dist, dist is incremented.
 ### The Core Team
 
 
